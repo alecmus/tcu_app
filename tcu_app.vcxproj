@@ -196,9 +196,11 @@
     <ClInclude Include="tcu_main\people\people.h" />
     <ClInclude Include="tcu_main\tcu_main.h" />
     <ClInclude Include="tcu_newuser\tcu_newuser.h" />
+    <ClInclude Include="version_info.h" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="resource.rc" />
+    <ResourceCompile Include="version_info.rc" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="resources\ico\icon.ico" />
