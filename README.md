@@ -8,7 +8,7 @@ This app was built using the [cui framework](https://github.com/alecmus/cui), wh
 It uses an [sqlite](https://sqlite.org) database that is encrypted through [sqlcipher](https://www.zetetic.net/sqlcipher), with [OpenSSL](https://openssl.org) handling the actual encryption.
 
 ## PLATFORM
-Microsoft Windows family of operating systems (Win 8, 8.1, 10, or later)
+Windows 10 (32 or 64 bit), or later
 
 ## SYSTEM REQUIREMENTS
  * 10MB free disk space minimum
