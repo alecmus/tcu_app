@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\ico">
+      <UniqueIdentifier>{86d2922f-e6af-4c74-9061-82e4373b9347}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\png">
+      <UniqueIdentifier>{bfe36f30-6487-4607-af3e-b95b13b80372}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\tcu_login">
+      <UniqueIdentifier>{8338f2dd-2dad-44e4-9fd4-e982f95a472e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\tcu_main">
+      <UniqueIdentifier>{4c643f4d-944d-442b-8e3e-74c9bbb0d403}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\tcu_db">
+      <UniqueIdentifier>{a16277df-51e6-4f7d-afee-190264cbf7a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\tcu_newuser">
+      <UniqueIdentifier>{60dbc22d-722a-491f-a82d-59df6aba10ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\tcu_main\people">
+      <UniqueIdentifier>{f5e86e37-2532-41e3-b784-7e8dd8e96f0b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\tcu_main\organization">
+      <UniqueIdentifier>{ba0d61de-305a-431f-9c00-57524bd99549}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\tcu_main\orders">
+      <UniqueIdentifier>{6230bcf4-6b94-4c30-98f8-14888932ef9a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\tcu_main\item">
+      <UniqueIdentifier>{7fc8c754-e9da-45e6-a76e-8579d41d3daf}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="tcu_newuser\tcu_newuser.cpp">
+      <Filter>Source Files\tcu_newuser</Filter>
+    </ClCompile>
+    <ClCompile Include="tcu_main\tcu_main.cpp">
+      <Filter>Source Files\tcu_main</Filter>
+    </ClCompile>
+    <ClCompile Include="tcu_main\item\item.cpp">
+      <Filter>Source Files\tcu_main\item</Filter>
+    </ClCompile>
+    <ClCompile Include="tcu_main\orders\orders.cpp">
+      <Filter>Source Files\tcu_main\orders</Filter>
+    </ClCompile>
+    <ClCompile Include="tcu_main\organization\organization.cpp">
+      <Filter>Source Files\tcu_main\organization</Filter>
+    </ClCompile>
+    <ClCompile Include="tcu_main\people\people.cpp">
+      <Filter>Source Files\tcu_main\people</Filter>
+    </ClCompile>
+    <ClCompile Include="tcu_login\tcu_login.cpp">
+      <Filter>Source Files\tcu_login</Filter>
+    </ClCompile>
+    <ClCompile Include="tcu_db\tcu_db.cpp">
+      <Filter>Source Files\tcu_db</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="state.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="tcu_newuser\tcu_newuser.h">
+      <Filter>Source Files\tcu_newuser</Filter>
+    </ClInclude>
+    <ClInclude Include="tcu_main\tcu_main.h">
+      <Filter>Source Files\tcu_main</Filter>
+    </ClInclude>
+    <ClInclude Include="tcu_main\item\item.h">
+      <Filter>Source Files\tcu_main\item</Filter>
+    </ClInclude>
+    <ClInclude Include="tcu_main\orders\orders.h">
+      <Filter>Source Files\tcu_main\orders</Filter>
+    </ClInclude>
+    <ClInclude Include="tcu_main\organization\organization.h">
+      <Filter>Source Files\tcu_main\organization</Filter>
+    </ClInclude>
+    <ClInclude Include="tcu_main\people\people.h">
+      <Filter>Source Files\tcu_main\people</Filter>
+    </ClInclude>
+    <ClInclude Include="tcu_login\tcu_login.h">
+      <Filter>Source Files\tcu_login</Filter>
+    </ClInclude>
+    <ClInclude Include="tcu_db\tcu_db.h">
+      <Filter>Source Files\tcu_db</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="resource.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="resources\ico\icon.ico">
+      <Filter>Resource Files\ico</Filter>
+    </Image>
+    <Image Include="resources\png\icon_16.png">
+      <Filter>Resource Files\png</Filter>
+    </Image>
+    <Image Include="resources\png\icon_20.png">
+      <Filter>Resource Files\png</Filter>
+    </Image>
+    <Image Include="resources\png\icon_24.png">
+      <Filter>Resource Files\png</Filter>
+    </Image>
+    <Image Include="resources\png\icon_28.png">
+      <Filter>Resource Files\png</Filter>
+    </Image>
+    <Image Include="resources\png\icon_32.png">
+      <Filter>Resource Files\png</Filter>
+    </Image>
+    <Image Include="resources\png\error.png">
+      <Filter>Resource Files\png</Filter>
+    </Image>
+    <Image Include="resources\png\user.png">
+      <Filter>Resource Files\png</Filter>
+    </Image>
+    <Image Include="resources\png\orders.png">
+      <Filter>Resource Files\png</Filter>
+    </Image>
+    <Image Include="resources\png\people.png">
+      <Filter>Resource Files\png</Filter>
+    </Image>
+    <Image Include="resources\png\settings.png">
+      <Filter>Resource Files\png</Filter>
+    </Image>
+    <Image Include="resources\png\back.png">
+      <Filter>Resource Files\png</Filter>
+    </Image>
+    <Image Include="resources\png\add.png">
+      <Filter>Resource Files\png</Filter>
+    </Image>
+    <Image Include="resources\png\edit.png">
+      <Filter>Resource Files\png</Filter>
+    </Image>
+    <Image Include="resources\png\delete.png">
+      <Filter>Resource Files\png</Filter>
+    </Image>
+    <Image Include="resources\png\items.png">
+      <Filter>Resource Files\png</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

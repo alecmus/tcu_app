@@ -1,0 +1,35 @@
+/*
+** Top Class Uniforms resource file (resource.rc)
+**
+** This code may not be copied, modified or distributed without the
+** express written permission of the author(s). Any violation shall
+** be prosecuted to the maximum extent possible under law.
+**
+*************************************************************************
+** Project Details:
+**
+** National University of Science and Technology
+** SCS2104 Structured System Analysis and Design 2019
+** Group 4: Mthandazo, Ropafadzo, Takura, Kennedy, Alec, Wallis
+**
+*/
+
+#include "resource.h"
+
+ico_resource	ICON	"resources/ico/icon.ico"
+icon_16			PNG		"resources/png/icon_16.png"
+icon_20			PNG		"resources/png/icon_20.png"
+icon_24			PNG		"resources/png/icon_24.png"
+icon_28			PNG		"resources/png/icon_28.png"
+icon_32			PNG		"resources/png/icon_32.png"
+
+png_error		PNG		"resources/png/error.png"
+png_user		PNG		"resources/png/user.png"
+png_orders		PNG		"resources/png/orders.png"
+png_people		PNG		"resources/png/people.png"
+png_items		PNG		"resources/png/items.png"
+png_settings	PNG		"resources/png/settings.png"
+png_back		PNG		"resources/png/back.png"
+png_add			PNG		"resources/png/add.png"
+png_edit		PNG		"resources/png/edit.png"
+png_del			PNG		"resources/png/delete.png"
