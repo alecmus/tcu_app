@@ -4,7 +4,7 @@
 *************************************************************************
 ** MIT License
 **
-** Copyright (c) 2019 Mthandazo J.J. Ncube, Ropafadzo Siziba, Takura Chimoyo, Kennedy J.J. Maturure,  Alec T. Musasa, Wallis T. Makurumidze
+** Copyright (c) 2019 Mthandazo J.J. Ncube, Ropafadzo Siziba, Bruce Chimoyo, Kennedy J.J. Maturure,  Alec T. Musasa, Wallis T. Makurumidze
 **
 ** Permission is hereby granted, free of charge, to any person obtaining a copy
 ** of this softwareand associated documentation files(the "Software"), to deal
@@ -29,7 +29,7 @@
 **
 ** National University of Science and Technology
 ** SCS2104 Structured System Analysis and Design 2019
-** Group 4: Mthandazo, Ropafadzo, Takura, Kennedy, Alec, Wallis
+** Group 4: Mthandazo, Ropafadzo, Bruce, Kennedy, Alec, Wallis
 */
 
 #pragma once
@@ -61,7 +61,7 @@ public:
 
 public:
 	std::string get_credits() { return "This app was designed, built and is maintained by\n\n"
-		"SCS2104 Group 4, 2019: Mthandazo, Ropafadzo, Takura,\nKennedy, Alec, Wallis.\n\n"
+		"SCS2104 Group 4, 2019: Mthandazo, Ropafadzo, Bruce,\nKennedy, Alec, Wallis.\n\n"
 		"All rights reserved."; };
 	bool loggedin() { return loggedin_; }
 	void loggedin(bool loggedin) { loggedin_ = loggedin; }

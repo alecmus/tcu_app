@@ -4,7 +4,7 @@
 *************************************************************************
 ** MIT License
 **
-** Copyright (c) 2019 Mthandazo J.J. Ncube, Ropafadzo Siziba, Takura Chimoyo, Kennedy J.J. Maturure,  Alec T. Musasa, Wallis T. Makurumidze
+** Copyright (c) 2019 Mthandazo J.J. Ncube, Ropafadzo Siziba, Bruce Chimoyo, Kennedy J.J. Maturure,  Alec T. Musasa, Wallis T. Makurumidze
 **
 ** Permission is hereby granted, free of charge, to any person obtaining a copy
 ** of this softwareand associated documentation files(the "Software"), to deal
@@ -29,7 +29,7 @@
 **
 ** National University of Science and Technology
 ** SCS2104 Structured System Analysis and Design 2019
-** Group 4: Mthandazo, Ropafadzo, Takura, Kennedy, Alec, Wallis
+** Group 4: Mthandazo, Ropafadzo, Bruce, Kennedy, Alec, Wallis
 */
 
 #include "tcu_newuser.h"
