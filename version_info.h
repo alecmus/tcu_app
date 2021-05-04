@@ -4,7 +4,7 @@
 *************************************************************************
 ** MIT License
 **
-** Copyright (c) 2019 Mthandazo J.J. Ncube, Ropafadzo Siziba, Bruce Chimoyo, Kennedy J.J. Maturure,  Alec T. Musasa, Wallis T. Makurumidze
+** Copyright (c) 2019 Mthandazo J.J. Ncube, Ropafadzo Siziba, Bruce Chimoyo, Kennedy J.J. Maturure,  Alec Musasa, Wallis T. Makurumidze
 **
 ** Permission is hereby granted, free of charge, to any person obtaining a copy
 ** of this softwareand associated documentation files(the "Software"), to deal
@@ -37,7 +37,7 @@
 #define appname			"TCU Order App"
 #define appdescription	"Top Class Uniforms Order Management System"
 #define appcomments		"Powered by the cui framework"
-#define appcopyright	"Copyright (c) 2019 Mthandazo J.J. Ncube, Ropafadzo Siziba, Bruce Chimoyo, Kennedy J.J. Maturure,  Alec T. Musasa, Wallis T. Makurumidze"
+#define appcopyright	"Copyright (c) 2019 Mthandazo J.J. Ncube, Ropafadzo Siziba, Bruce Chimoyo, Kennedy J.J. Maturure,  Alec Musasa, Wallis T. Makurumidze"
 #define appfilename		"tcu_app.exe"
 
 #define appversion		"1.0.0"
